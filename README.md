@@ -61,7 +61,7 @@ The project pages provide a summary of the context, my contribution, responsibil
 
 - [StayAtHomeIT2020](projects/stayathomeit2020.md) — Kotlin application created during the COVID-19 lockdown to compose and share layouts made of five photos with descriptions, including ViewModel-based state management and runtime permission handling.
 - [Skudo](projects/skudo.md) — Android tablet application for construction-site management, including worker, working-time and expense tracking.
-
+- [Chirp — Agentic Coding Experiment](projects/chirp-agentic-coding/README.md) — Kotlin Multiplatform / Compose Multiplatform case study focused on AI-agent-driven development with Claude Code, Figma Remote MCP, human-in-the-loop review, independent Gemini review, automated testing and accessibility hardening.
 ## Public Repositories
 
 I am also working on personal projects aimed at consolidating and demonstrating recent skills in Jetpack Compose and Kotlin Multiplatform.
