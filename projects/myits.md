@@ -1,14 +1,13 @@
 # MyITS
 
 ## Role
-Mobile Application Developer
+Mobile Developer — Android / iOS (Freelance/B2B)
 
 ## Period
 January 2016 – December 2017
 
 ## Context
 Custom company catalog application with a guided order-creation workflow, developed for a direct client with native implementations for both Android and iOS (Swift).
-
 ## Main Contributions
 - End-to-end development and delivery of the mobile application
 - Development of the native Android application
@@ -22,7 +21,6 @@ Custom company catalog application with a guided order-creation workflow, develo
 ## Architecture & Patterns
 - Native Android / iOS development
 - MVC
-
 ## Technologies
 - Java
 - Swift

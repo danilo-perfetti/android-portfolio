@@ -1,7 +1,7 @@
 # Eurobet Sport Android App
 
 ## Role
-Android Developer Consultant
+Senior Android Developer — Freelance/B2B Consultant
 
 ## Period
 September 2022 – June 2026
@@ -10,18 +10,16 @@ September 2022 – June 2026
 Development, evolution and modernization of the Eurobet Sport Android application within an Agile team of 4 Android developers, collaborating with iOS, backend, QA and UI/UX teams.
 
 ## Main Contributions
-- Development and maintenance of new application features
-- Incremental refactoring of a complex Android codebase
-- Complete migration from MVC architecture to MVVM / Clean Architecture
-- Integration and consumption of REST APIs and JSON-based services
-- Implementation and maintenance of Dark Mode
-- Implementation of Shimmer / skeleton loading
-- Integration of Figma Design Tokens
-- Dependency Injection with Hilt
+- Redesign and evolution of core application areas, including Home, betting, live events and bet slip, in collaboration with UI/UX teams using Figma
+- Development of reusable UI components and shared Design System / Outcome modules to support consistency and reuse across applications
+- Incremental modernization of a complex legacy codebase, moving from MVC toward MVVM and Clean Architecture
+- Migration of legacy Java implementations to Kotlin and replacement of AsyncTask-based asynchronous operations with Coroutines
+- Integration of REST APIs and JSON-based services, using ViewModel, Repository Pattern and LiveData / Flow for application state and data handling
+- Implementation and maintenance of Dark Mode, Shimmer / skeleton loading and Figma Design Tokens
+- Dependency Injection with Hilt and local preference management using Room
 - Implementation of polling mechanisms and deep links
-- Integration of Dynatrace Session Replay with safe masking
-- Integration of FullStory for user experience monitoring and session analysis
-- Collaboration with cross-functional teams within an Agile development process
+- Integration of Dynatrace Session Replay with sensitive-data masking and FullStory for user experience monitoring and session analysis
+- Collaboration with Android, iOS, backend, QA and UI/UX teams in an Agile development process
 
 ## Architecture & Patterns
 - Clean Architecture
@@ -38,6 +36,7 @@ Development, evolution and modernization of the Eurobet Sport Android applicatio
 - Data Binding
 - Coroutines
 - Flow
+- Room
 - Retrofit
 - Gson
 - REST Web Services

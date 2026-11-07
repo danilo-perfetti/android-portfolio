@@ -1,7 +1,7 @@
 # Where2Go
 
 ## Role
-Android Application Developer
+Android Developer — Freelance/B2B
 
 ## Period
 January 2016 – December 2017

@@ -1,7 +1,7 @@
 # Iperceramica Android App
 
 ## Role
-Android Developer Consultant
+Android Developer — Freelance/B2B
 
 ## Period
 March 2019 – July 2019
@@ -11,17 +11,15 @@ Modernization of the Iperceramica Android tablet application, including migratio
 
 ## Main Contributions
 - Migration of the application codebase from Java to Kotlin
-- Introduction of MVVM architecture
-- Adoption of Android Jetpack components
-- Introduction of ViewModel, LiveData and Data Binding
-- Use of reactive programming
-- Integration of Namirial SDK for the customer onboarding and graphometric signature process
+- Introduction of MVVM architecture and adoption of Android Jetpack components, including ViewModel, LiveData and Data Binding
+- Use of RxJava in production for reactive programming
+- Integration of Namirial SDK for customer enrollment and graphometric signature workflows
 - Refactoring and modernization of existing application components
 
 ## Architecture & Patterns
 - MVVM
 - Legacy architecture progressively modernized
-- Observer / reactive programming approach
+- Reactive programming with RxJava
 
 ## Technologies
 - Kotlin
@@ -31,7 +29,7 @@ Modernization of the Iperceramica Android tablet application, including migratio
 - ViewModel
 - LiveData
 - Data Binding
-- Reactive Programming
+- RxJava
 - Namirial SDK
 - REST / JSON integration
 - Git

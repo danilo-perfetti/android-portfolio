@@ -1,7 +1,7 @@
 # BlueXpense Android App
 
 ## Role
-Android Developer Consultant
+Android Developer — Freelance/B2B
 
 ## Period
 February 2018 – August 2018
@@ -10,13 +10,11 @@ February 2018 – August 2018
 Consulting activity for the design, development and evolution of BlueXpense, an Android application for digital expense management and expense reporting.
 
 ## Main Contributions
-- Design and development of new application features
-- Evolutionary maintenance of the Android application
-- Large-scale code refactoring
-- Bug fixing
-- Integration and consumption of REST web services
-- JSON-based data exchange
-- Development for both smartphone and tablet form factors
+- Designed and developed Java-based Android features for expense management and reporting.
+- Performed evolutionary maintenance and bug fixing on the existing application.
+- Refactored existing code to support application evolution and maintainability.
+- Integrated REST web services with JSON-based data exchange.
+- Developed functionality for both smartphone and tablet form factors.
 
 ## Architecture & Patterns
 - MVC

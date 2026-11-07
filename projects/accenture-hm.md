@@ -1,23 +1,20 @@
 # H&M Android App
 
 ## Role
-Android Developer Consultant
+Senior Android Developer — Freelance/B2B Consultant (Accenture)
 
 ## Period
 October 2020 – January 2022
 
 ## Context
-Development of the H&M Android application in Kotlin within an Agile team of 3 Android developers, collaborating with iOS, backend, QA and UI/UX teams.
+Development and evolution of the H&M Android application within an Agile team of 3 Android developers, collaborating with iOS, backend, QA and UI/UX teams.
 
 ## Main Contributions
-- Development and maintenance of Android features
-- Use of Adyen SDK for payment processing
-- Development and maintenance of automated tests
-- Unit Testing, Integration Testing and UI Testing
-- Implementation of feature flags using Firebase Remote Config
-- Support for A/B Testing to validate UX variants across user segments
-- Integration and consumption of REST APIs and JSON-based services
-- Collaboration with cross-functional teams within an Agile development process
+- Implemented Android features using Firebase Remote Config for feature flags, A/B testing to validate UX variants, and controlled phased rollouts.
+- Worked on the Adyen SDK payment flow, including 3DS1 redirects and 3DS2 device fingerprinting with optional authentication challenges.
+- Developed and maintained automated unit, integration and UI tests; used Azure Pipelines for CI builds and test execution, with JaCoCo code coverage reporting.
+- Developed and maintained features using Clean Architecture/MVVM, Kotlin Coroutines, Flow, Dagger, Retrofit and Android Jetpack libraries.
+- Integrated and consumed REST APIs and JSON-based services, collaborating with cross-functional teams in an Agile development process.
 
 ## Architecture & Patterns
 - Clean Architecture
@@ -34,18 +31,18 @@ Development of the H&M Android application in Kotlin within an Agile team of 3 A
 - Flow
 - Retrofit
 - Gson
-- REST Web Services
-- JSON
+- REST Web Services / JSON
 - Dagger
 - Room
 - Navigation
-- Adyen SDK
+- Adyen SDK (3DS1 / 3DS2)
 - Firebase Analytics
 - Firebase Remote Config
 - A/B Testing
 - Mockito
 - MockServer
 - Espresso
+- JaCoCo
 - Git / GitFlow
 - Charles Web Proxy
 
@@ -56,9 +53,10 @@ Development of the H&M Android application in Kotlin within an Agile team of 3 A
 - Mockito
 - MockServer
 - Espresso
+- JaCoCo code coverage
 
 ## Collaboration Tools
-- Azure DevOps
+- Azure DevOps / Azure Pipelines (CI)
 - Jira
 - Microsoft Teams
 

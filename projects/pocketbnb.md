@@ -1,7 +1,7 @@
 # PocketBnB
 
 ## Role
-Mobile Application Developer
+Mobile Developer — Android / iOS (Freelance/B2B)
 
 ## Period
 January 2016 – December 2017
@@ -20,7 +20,7 @@ Custom mobile application developed for a direct client to support B&B booking m
 
 ## Architecture & Patterns
 - Native Android / iOS development
-- MVC 
+- MVC
 
 ## Technologies
 - Java
